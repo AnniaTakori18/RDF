@@ -115,7 +115,6 @@
 <body>
 
     <nav>
-        <a href="#education">Education</a>
         <a href="#achievements">Achievements</a>
         <a href="#honorable-mention">Honorable Mention</a>
         <a href="#contact">Contact</a>
@@ -168,15 +167,6 @@
             <li>Time Management</li>
             <!-- Add more skills as needed -->
         </ul>
-    </section>
-
-    <section id="education">
-        <h2>Education</h2>
-        <dl>
-            <dt>Major: Informatics</dt>
-            <dt>Minor: Communication</dt>
-            <dd><a href="https://www.albany.edu/cehc/programs/bs-informatics" target="_blank">University at Albany - Informatics</a></dd>
-        </dl>
     </section>
 
     <section id="achievements">
